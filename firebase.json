@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "theme",
+    "site": "hello-buddy-2",
+    "public": "templates",
     "ignore": [
       "firebase.json",
       "**/.*",
